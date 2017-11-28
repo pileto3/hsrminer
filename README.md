@@ -17,6 +17,6 @@ Product will contain devfee 1% (0.5% for me, 0.5% for alexkap) and will be close
 Will update that page with bins and instructions once closed-beta test ends. 
 Beta will last from the beginning of December until 24-25th of December.
 
-Everyone who want to perticipate - write me PM on bitcointalk.org forum (https://bitcointalk.org/index.php?action=profile;u=828408).
+Everyone who want to participate - write me PM on bitcointalk.org forum (https://bitcointalk.org/index.php?action=profile;u=828408).
 
 Thanks for viewing this page and have a nice day! ;)
