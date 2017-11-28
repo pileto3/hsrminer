@@ -9,6 +9,7 @@ We'll start with HSR algo (Hcash) and will try to keep up with 5-10% higher spee
 Current testing speeds:
 
 1060 3Gb - 8.3+ Mh/s on hsr
+
 1080 - 16.2+ Mh/s on hsr
 
 Product will contain devfee 1% (0.5% for me, 0.5% for alexkap) and will be close-sourced, but voluntary work won't be abandoned.
