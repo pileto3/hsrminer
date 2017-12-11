@@ -16,6 +16,6 @@ Product will contain devfee 1% (0.5% for me, 0.5% for alexkap) and will be close
 
 UPDATE: closed beta stage finished, but we didn't receive enough feedback, so next stage will be open beta.
 
-Please, send feedback to hsrminer thread on bitcointalk - LINK WILL BE ADDED LATER
+Please, send feedback to hsrminer thread on bitcointalk - https://bitcointalk.org/index.php?topic=2565979
 
 Thanks for viewing this page and have a nice day! ;)
