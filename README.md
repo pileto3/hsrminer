@@ -14,9 +14,8 @@ Current testing speeds:
 
 Product will contain devfee 1% (0.5% for me, 0.5% for alexkap) and will be close-sourced, but voluntary work won't be abandoned.
 
-Will update that page with bins and instructions once closed-beta test ends. 
-Beta will last from the beginning of December until 24-25th of December.
+UPDATE: closed beta stage finished, but we didn't receive enough feedback, so next stage will be open beta.
 
-Everyone who want to participate - write me PM on bitcointalk.org forum (https://bitcointalk.org/index.php?action=profile;u=828408).
+Please, send feedback to hsrminer thread on bitcointalk - LINK WILL BE ADDED LATER
 
 Thanks for viewing this page and have a nice day! ;)
